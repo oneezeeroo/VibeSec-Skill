@@ -28,6 +28,9 @@ VibeSec is an AI Skill that acts as a security-first co-pilot. It teaches your s
   - [📬 Contact](#-contact)
 
 
+>[!Tip]
+>This skill already covers 60-70% of the common vulnerabilities. However, if you need a more robust version with more vulnerability coverage, please visit [vibesec.sh](https://vibesec.sh/)
+
 
 ## 📥 Installation
 
